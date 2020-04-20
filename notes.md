@@ -183,5 +183,15 @@ comparison operators
 # <= Less than -numbers only
 # <= Less than or equal to -numbers only
 
-In operator
-    
+
+Methods and functions.
+
+Basic syntax for creating functions.
+    def function_name_in_snake_case():
+        print('Hi')
+
+        #two lines of space after the definition of the function.
+    function_name_in_snake_case()
+
+Unpacking args (*args) leads to a tuple.
+Unpacking kwargs (**kwargs) leads to a dictionary.
