@@ -18,4 +18,5 @@ kristine = User('kristine@devcamp.com', 'Kristine', 'Hudgens')
 
 print(tiffany.active_users())
 print(tiffany.greeting())
-print(kristine.active_users())
+#this won't show an attribute
+#print(kristine.active_users())
